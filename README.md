@@ -1,13 +1,13 @@
 # About
-此项目是vue3+ts+vite构建的小说管理系统。
+此项目是课程设计做的一个小说管理系统。
 
 
 ## 说明
 如果你对此项目感兴趣，可以点"Star"支持一下吗，谢谢
-这项目是前后端分离的项目，后端地址：https://github.com/CWRL/Real-time-epidemic-data-serve
+这项目是前后端分离的项目，后端地址：https://github.com/CWRL/xiaoshuo_management_houduan
 
 ## Type Support for `.vue` Imports in TS
-技术栈：vue3,ts,pinia,git,echarts,element-plus
+技术栈：vue3,ts,pinia,git,socket.io,element-plus
 
 
 ## 安装依赖
