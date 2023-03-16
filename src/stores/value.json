@@ -1,0 +1,21 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "permissions": "超级管理员",
+            "count": 3
+        },
+        {
+            "permissions": "管理员",
+            "count": 1
+        },
+        {
+            "permissions": "主管",
+            "count": 2
+        },
+        {
+            "permissions": "经理",
+            "count": 2
+        }
+    ]
+}
